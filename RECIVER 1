@@ -1,0 +1,56 @@
+#EXTM3U
+
+#EXTINF:-1,Usee Sport 720
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+
+#EXTINF:-1,Usee Sport 360
+http://edge.telin.useetv.com/sc/useesport_360p.m3u8
+
+#EXTINF:-1,ASTRO SPORT
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+
+#EXTINF:-1,ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1,True Vision
+http://103.242.13.90:5555/udp/239.4.1.149:10000
+
+#EXTINF:-1,SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+
+#EXTINF:-1,SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+
+#EXTINF:-1,Suluk® → FOX SPORT
+http://103.242.13.90:5555/udp/239.4.1.47:10000
+
+#EXTINF:-1,Suluk® → FOX SPORT 2
+http://103.242.13.90:5555/udp/239.4.1.48:10000
+
+#EXTINF:-1,Suluk® → FOX SPORT 3 HD
+http://103.242.13.90:5555/udp/239.4.1.44:10000
+
+#EXTINF:-1,FOX FAMILY MOVIES
+http://lihattv.com/?play=43352
+
+#EXTINF:-1,FOX ACTION MOVIES
+http://lihattv.com/?play=43351
+
+#EXTINF:-1,FOX ACTION MOVIES 2
+http://103.242.13.90:5555/udp/239.4.1.72:10000
+
+#EXTINF:-1,FOX MOVIES PREMIER
+http://103.242.13.90:5555/udp/239.4.1.84:10000
+
+#EXTINF:-1,Suluk® → FOX HD
+http://103.242.13.90:5555/udp/239.4.1.83:10000
+
+#EXTINF:-1,Suluk® → NATIONAL GEOGRAPHIC
+http://103.242.13.90:5555/udp/239.4.1.61:10000
+
+#EXTINF:-1,Suluk® → NAT GEO WILD
+http://103.242.13.90:5555/udp/239.4.1.62:10000
+
+#EXTINF:-1,Suluk® → DISCOVERY WORLD HD
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+
