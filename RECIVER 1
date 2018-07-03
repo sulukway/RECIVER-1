@@ -6,54 +6,463 @@ http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 #EXTINF:-1,Usee Sport 360
 http://edge.telin.useetv.com/sc/useesport_360p.m3u8
 
-#EXTINF:-1,Usee Sport 360
-http://edge.telin.useetv.com/sc/useesport_360p.m3u8
+#EXTINF:-1,Channel Piala Dunia HD (Usee TV)
+http://sg.ganteng.stream:8888/live/user449/u449/467.ts
 
-#EXTINF:-1,ASTRO SPORT
-http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:-1,Channel Piala Dunia SD (Usee TV)
+http://sg.ganteng.stream:8888/live/user449/u449/566.ts
 
 #EXTINF:-1,ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:-1,True Vision
-http://103.242.13.90:5555/udp/239.4.1.149:10000
+#EXTINF:-1,True Sport 1 HD
+http://iptvthai.webhop.biz:443/hd-tsport1_720/index.m3u8?
 
-#EXTINF:-1,SONY TEN 2 HD
+#EXTINF:-1,True Sport 2 HD
+http://iptvthai.webhop.biz:443/hd-tsport2_720/index.m3u8?
+
+#EXTINF:-1,True Sport 3 HD
+http://iptvthai.webhop.biz:443/hd-tsport3_720/index.m3u8?
+
+#EXTINF:-1,Bein Sport 1 HD
+http://139.99.38.2:443/epl-bein1_1080/index.m3u8
+
+#EXTINF:-1,Bein Sport 2 HD
+http://139.99.38.2:443/epl-bein2_1080/index.m3u8
+
+#EXTINF:-1,Bein Sport 3 HD
+http://139.99.38.3:443/epl-bein3_1080/index.m3u8
+
+#EXTINF:-1,Bein Sport 4 HD
+http://139.99.38.2:443/epl-bein4_1080/index.m3u8
+
+#EXTINF:1,INDOSIAR
+http://cdn-livetv1.metube.id/hls/indosiar_240/index.m3u8
+
+#EXTINF:1,SCTV_360
+http://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
+
+#EXTINF:1,RCTI
+http://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+
+#EXTINF:1,GLOBALTV
+http://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+
+#EXTINF:1,MNCTV
+http://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+
+#EXTINF:1,TRANS7
+http://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
+
+#EXTINF:1,TRANSTV
+http://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+
+#EXTINF:1,ANTV
+http://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+
+#EXTINF:1,TVONE
+http://cdn-livetv2.metube.id/hls/tvone.m3u8
+
+#EXTINF:1,METROTV
+http://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+
+#EXTINF:1,METROTV_HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w794188647_b1300000_sleng.m3u8
+
+#EXTINF:1,KOMPASTV
+http://stream-03.sg1.dailymotion.com/37/dm/3/x54ozbu/live-2.m3u8
+
+#EXTINF:1,INEWS
+http://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+
+#EXTINF:1,CNN_INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:1,BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:1,TVRI_NASIONAL
+http://cdn-livetv2.metube.id/hls/tvri_480/index.m3u8
+
+#EXTINF:0,RODJA TV
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:0,WESAL TV
+http://wowza60.beetecmedia.com:1935/wesaltv/live/playlist.m3u8
+
+#EXTINF:0,SURAU TV
+rtmp://wowza60.indostreamserver.com:1935/surautv/live
+
+#EXTINF:0,TAHFIZH TV
+rtmp://119.235.249.58:1935/tahfidztv/live
+
+#EXTINF:0,AHSAN TV
+rtmp://119.82.224.75:1935/live/ahsantv
+
+#EXTINF:0,ASWAJA TV
+http://stream.aswajadev.com:8081/liveas/stream/playlist.m3u8
+
+#EXTINF:0,INSAN TV
+http://live.insantv.com/
+
+#EXTINF:0,TVMu
+rtmp://118.97.183.222:1935/discover/muhammadiyahtv
+
+#EXTINF:0 group-title="SPORTS",SONY ESPN HD (NEW by SW)
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0, group-title="SPORTS",SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0 group-title="SPORTS",SONY TEN 2 HD
 http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
-
-#EXTINF:-1,SONY TEN 3 HD
+#EXTINF:0 group-title="SPORTS",SONY TEN 3 HD
 http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
 
-#EXTINF:-1,Suluk® → FOX SPORT
+#EXTINF:0,Astro Sport
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+
+#EXTINF:0,True Vision
+http://103.242.13.90:5555/udp/239.4.1.149:10000
+
+#EXTINF:0,FOX SPORT
 http://103.242.13.90:5555/udp/239.4.1.47:10000
 
-#EXTINF:-1,Suluk® → FOX SPORT 2
+#EXTINF:0,FOX SPORT 2
 http://103.242.13.90:5555/udp/239.4.1.48:10000
 
-#EXTINF:-1,Suluk® → FOX SPORT 3 HD
+#EXTINF:0,Fox Sports 3 HD
 http://103.242.13.90:5555/udp/239.4.1.44:10000
 
-#EXTINF:-1,FOX FAMILY MOVIES
-http://lihattv.com/?play=43352
+#EXTINF:0,CCTV 5
+http://103.242.13.90:5555/udp/239.4.1.66:10000
 
-#EXTINF:-1,FOX ACTION MOVIES
-http://lihattv.com/?play=43351
-
-#EXTINF:-1,FOX ACTION MOVIES 2
+#EXTINF:0,Fox Action Movies
 http://103.242.13.90:5555/udp/239.4.1.72:10000
 
-#EXTINF:-1,FOX MOVIES PREMIER
-http://103.242.13.90:5555/udp/239.4.1.84:10000
+#EXTINF:0,MYTV
+http://103.242.13.90:5555/udp/239.4.1.56:10000
 
-#EXTINF:-1,Suluk® → FOX HD
-http://103.242.13.90:5555/udp/239.4.1.83:10000
+#EXTINF:0,CTN
+http://103.242.13.90:5555/udp/239.4.1.57:10000
 
-#EXTINF:-1,Suluk® → NATIONAL GEOGRAPHIC
+#EXTINF:0,CNC
+http://103.242.13.90:5555/udp/239.4.1.55:10000
+
+#EXTINF:0,Discovery World HD
+http://103.242.13.90:5555/udp/239.4.1.20:10000
+
+#EXTINF:0,Cartoon Network
+http://103.242.13.90:5555/udp/239.4.1.52:10000
+
+#EXTINF:0,NGC
 http://103.242.13.90:5555/udp/239.4.1.61:10000
 
-#EXTINF:-1,Suluk® → NAT GEO WILD
+#EXTINF:0,Neo Geo Wild
 http://103.242.13.90:5555/udp/239.4.1.62:10000
 
-#EXTINF:-1,Suluk® → DISCOVERY WORLD HD
-http://103.242.13.90:5555/udp/239.4.1.20:10000
+#EXTINF:0,FOX HD
+http://103.242.13.90:5555/udp/239.4.1.83:10000
+
+#EXTINF:0,STAR WORLD HD
+http://103.242.13.90:5555/udp/239.4.1.82:10000
+
+#EXTINF:0,FOX MOVIES PREMIER
+http://103.242.13.90:5555/udp/239.4.1.84:10000
+
+#EXTINF:0,RT HD
+http://103.242.13.90:5555/udp/239.4.1.98:10000
+
+#EXTINF:0,CNN Asia
+http://103.242.13.90:5555/udp/239.4.1.105:10000
+
+#EXTINF:0,Setanta TV HD
+http://103.242.13.90:5555/udp/239.4.1.132:10000
+
+#EXTINF:0,FTV UHD ASIA
+http://103.242.13.90:5555/udp/239.4.1.45:10000
+
+#EXTINF:0,CNC World-English
+http://103.242.13.90:5555/udp/239.4.1.59:10000
+
+#EXTINF:0,Discovery Channel 
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+
+#EXTINF:0,BBC_AV
+http://103.242.13.90:5555/udp/239.4.1.70:10000
+
+#EXTINF:0,MTV China-OTT
+http://103.242.13.90:5555/udp/239.4.1.71:10000
+
+#EXTINF:0,YUNNAN-1
+http://103.242.13.90:5555/udp/239.4.1.92:10000
+
+#EXTINF:0,YTN
+http://103.242.13.90:5555/udp/239.4.1.73:10000
+
+#EXTINF:0,HubeiTV
+http://103.242.13.90:5555/udp/239.4.1.4:10000
+
+#EXTINF:0,JSWS
+http://103.242.13.90:5555/udp/239.4.1.1:10000
+
+#EXTINF:0,FJTV
+http://103.242.13.90:5555/udp/239.4.1.7:10000
+
+#EXTINF:0,Sichuan
+http://103.242.13.90:5555/udp/239.4.1.27:10000
+
+#EXTINF:0,CCTV 13
+http://103.242.13.90:5555/udp/239.4.1.14:10000
+
+#EXTINF:0,Tianjin TV
+http://103.242.13.90:5555/udp/239.4.1.25:10000
+
+#EXTINF:0,Phoenix Chinese 
+http://103.242.13.90:5555/udp/239.4.1.35:10000
+
+#EXTINF:0,Hunan - (Hua Yu)
+http://103.242.13.90:5555/udp/239.4.1.41:10000
+
+#EXTINF:0,CNN
+http://103.242.13.90:5555/udp/239.4.1.54:10000
+
+#EXTINF:0,Fashion TV SD
+http://103.242.13.90:5555/udp/239.4.1.51:10000
+
+#EXTINF:0,CCTV 3
+http://103.242.13.90:5555/udp/239.4.1.53:10000
+
+#EXTINF:0,PNN Service HD
+http://103.242.13.90:5555/udp/239.4.1.58:10000
+
+#EXTINF:0,ARY Musik
+http://103.242.13.90:5555/udp/239.4.1.65:10000
+
+#EXTINF:0,NHK
+http://103.242.13.90:5555/udp/239.4.1.68:10000
+#EXTINF:0,CCTV 6
+http://103.242.13.90:5555/udp/239.4.1.67:10000
+
+#EXTINF:0,EURONEWS-ASIA
+http://103.242.13.90:5555/udp/239.4.1.75:10000
+
+#EXTINF:0,CCTV 8
+http://103.242.13.90:5555/udp/239.4.1.78:10000
+
+#EXTINF:0,ArirangTV W2
+http://103.242.13.90:5555/udp/239.4.1.74:10000
+
+#EXTINF:0,Australia Plus
+http://103.242.13.90:5555/udp/239.4.1.79:10000
+
+#EXTINF:0,France 24 (en Francais)
+http://103.242.13.90:5555/udp/239.4.1.89:10000
+
+#EXTINF:0,SZTV
+http://103.242.13.90:5555/udp/239.4.1.91:10000
+
+#EXTINF:0,TVS2
+http://103.242.13.90:5555/udp/239.4.1.95:10000
+
+#EXTINF:0,Rai Italia Asia
+http://103.242.13.90:5555/udp/239.4.1.87:10000
+
+#EXTINF:0,France 24
+http://103.242.13.90:5555/udp/239.4.1.88:10000
+
+#EXTINF:0,BON - DW
+http://103.242.13.90:5555/udp/239.4.1.99:10000
+
+#EXTINF:0,Eurosport-OTT
+http://103.242.13.90:5555/udp/239.4.1.108:10000
+
+#EXTINF:0,MITV
+http://103.242.13.90:5555/udp/239.4.1.104:10000
+
+#EXTINF:0,TV5
+http://103.242.13.90:5555/udp/239.4.1.204:10000
+
+#EXTINF:0,TV3
+http://103.242.13.90:5555/udp/239.4.1.203:10000
+
+#EXTINF:0,NTV
+http://103.242.13.90:5555/udp/239.4.1.205:10000
+
+#EXTINF:0,ASIA TELEVISION
+http://103.242.13.90:5555/udp/239.4.1.206:10000
+
+#EXTINF:0,Hang Meas
+http://103.242.13.90:5555/udp/239.4.1.211:10000
+
+#EXTINF:0,TVK
+http://103.242.13.90:5555/udp/239.4.1.201:10000
+
+#EXTINF:0,TV9 HD
+http://103.242.13.90:5555/udp/239.4.1.200:10000
+
+#EXTINF:0,BAYON BTV
+http://103.242.13.90:5555/udp/239.4.1.210:10000
+
+#EXTINF:0,TV3 Asia
+http://103.242.13.90:5555/udp/239.4.1.214:10000
+
+#EXTINF:0,CNBC Asia NTSC
+http://103.242.13.90:5555/udp/239.4.1.217:10000
+
+#EXTINF:0,Hang Meas News
+http://103.242.13.90:5555/udp/239.4.1.216:10000
+
+#EXTINF:0,Nice TV HD
+http://103.242.13.90:5555/udp/239.4.1.218:10000
+
+#EXTINF:0,BloombergAV
+http://103.242.13.90:5555/udp/239.4.1.236:10000
+
+#EXTINF:0,CQTV
+http://103.242.13.90:5555/udp/239.4.1.26:10000
+
+#EXTINF:0,CCTV 10
+http://103.242.13.90:5555/udp/239.4.1.17:10000
+
+#EXTINF:0,HKS-HD
+http://103.242.13.90:5555/udp/239.4.1.64:10000
+
+#EXTINF:0,Phx Infonews Channel
+http://103.242.13.90:5555/udp/239.4.1.31:10000
+
+#EXTINF:-1,ARENA SPORT 1
+http://46.40.5.99:8000/arena_1_high
+
+#EXTINF:-1,ARENA SPORT 2
+http://46.40.5.99:8000/arena_2_high
+
+#EXTINF:-1,ARENA SPORT 3
+http://46.40.5.99:8000/arena_3_high
+
+#EXTINF:-1,ARENA SPORT 4
+http://46.40.5.99:8000/arena_4_high
+
+#EXTINF:-,AD SPORT 1 HD (Arab)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1,AD SPORT 2 HD (Arab)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:0,(VN) VTV 1 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv1.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 2 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv2.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 3 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv3.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 4 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv4.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 5 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv5.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 6 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv6.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 7 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv7.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 8 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv8.smil/playlist.m3u8
+
+#EXTINF:0,(VN) VTV 9 HD
+https://cdn-livestream-live.vtvgiaitri.vn/vtv9.smil/playlist.m3u8
+
+#EXTINF:0,(TH) CHANNEL 2 THAI
+http://stream.rs.co.th/ch2-hi/index.m3u8
+
+#EXTINF:0,(TH) CHANNEL 8 THAI
+http://stream.rs.co.th/ch8-hi/index.m3u8
+
+#EXTINF:0,(TH) SABAIDEE TV
+http://stream.rs.co.th/sbd-hi/index.m3u8
+
+#EXTINF:0,(TH) YOU CHANNEL
+http://stream.rs.co.th/you-hi/index.m3u8
+
+#EXTINF:0,(TH) THAI TV5
+http://27.254.62.62:8081/live/tv5stream/playlist.m3u8
+
+#EXTINF:0,(TH) AMARIN HD 34
+http://s2.live14.com/stream/5195e80fe1ed0/playlist.m3u8
+
+#EXTINF:0,(TH) THAIRATH TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+
+#EXTINF:0,(TH) THAI PBS
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:0,(TH) ONE HD 31
+http://one31-rlbwkq.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:0,(TH) SPRING NEWS
+http://1457077260.cat-cdn.i-iptv.com/T1457077260/ngrp:livestream_all/playlist.m3u8
+
+#EXTINF:0,(TH) M CHANNEL
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:0,(TH) BLUESKY CHANNEL
+http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
+
+#EXTINF:0,(TH) CH 3 SD
+http://ch3-28.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:0,(TH) CH 3 HD
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:0,(TH) CH 3 FAMILY
+http://ch3-13.cdn.byteark.com/live/playlist_720p/index.m3u8
+
+#EXTINF:0,(IN) SONY ROX HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/index.m3u8
+
+#EXTINF:0,(IN) SONY PIX SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226442/index.m3u8
+
+#EXTINF:0,(IN) SONY PIX HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/index.m3u8
+
+#EXTINF:0,(IN) SONY LE PLEX HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226446/index.m3u8
+
+#EXTINF:0,(IN) SONY BBC EARTH HD
+http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
+
+#EXTINF:0,(IN) SONY BBC EARTH SD
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/index.m3u8
+
+#EXTINF:0,(IN) DISCOVERY TURBO
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
+
+#EXTINF:0,(IN) DISCOVERY SCEINCE
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8
+
+#EXTINF:0,(IN) DISCOVERY CHANNEL
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8
+
+#EXTINF:0,(IN) ANIMAL PLANET
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/index.m3u8
+
+#EXTINF:0,(IN) DISCOVERY KIDS
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/index.m3u8
+
+#EXTINF:0,(IN) ANIMAL PLANET HD WORLD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+
+#EXTINF:0,(IN) DISCOVERY HD WORLD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+
+#EXTINF:0,(IN) TLC
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/index.m3u8
+
+#EXTINF:0,(IN) TLC HD WORLD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
 
