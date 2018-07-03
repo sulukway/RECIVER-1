@@ -1,6 +1,10 @@
 #EXTM3U
+
 #EXTINF:-1,Usee Sport 720
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+
+#EXTINF:-1,Usee Sport 360
+http://edge.telin.useetv.com/sc/useesport_360p.m3u8
 
 #EXTINF:-1,Usee Sport 360
 http://edge.telin.useetv.com/sc/useesport_360p.m3u8
