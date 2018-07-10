@@ -6,26 +6,26 @@ http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 #EXTINF:-1,Suluk ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:-1,Suluk True Sport 1 HD
-http://iptvthai.webhop.biz:443/hd-tsport1_720/index.m3u8?
+#EXTINF:-1,Suluk® → TRUE SPORT HD1
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/229.m3u8
 
-#EXTINF:-1,Suluk True Sport 2 HD
-http://iptvthai.webhop.biz:443/hd-tsport2_720/index.m3u8?
+#EXTINF:-1,Suluk® → TRUE SPORT HD2
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/230.m3u8
 
-#EXTINF:-1,Suluk True Sport 3 HD
-http://iptvthai.webhop.biz:443/hd-tsport3_720/index.m3u8?
+#EXTINF:-1,Suluk® → TRUE SPORT HD3
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/231.m3u8
 
-#EXTINF:-1,Suluk Bein Sport 1 HD
-http://139.99.38.2:443/epl-bein1_1080/index.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD1 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/149.m3u8
 
-#EXTINF:-1,Suluk Bein Sport 2 HD
-http://139.99.38.2:443/epl-bein2_1080/index.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD2 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/152.m3u8
 
-#EXTINF:-1,Suluk Bein Sport 3 HD
-http://139.99.38.3:443/epl-bein3_1080/index.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD3 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/154.m3u8
 
-#EXTINF:-1,Suluk Bein Sport 4 HD
-http://139.99.38.2:443/epl-bein4_1080/index.m3u8
+#EXTINF:-1,Suluk® → BEIN SPORT HD4 
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/156.m3u8
 
 #EXTINF:-1,Suluk SONY TEN 1 HD
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
