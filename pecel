@@ -283,102 +283,78 @@ http://203.154.243.89:1207
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO♥SPORTS",Astro Sport 4 SD
 http://203.154.243.89:1211
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",10 BOLD
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1886883028?ticket=6001F34242EA6CA536A51C36762D6C3E36497D21&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",ABC
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/550080032?ticket=2870EAF1CCEE70EB86EFB9AEF7B35B58C5E92F21&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS ONE
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/923270076?ticket=F91B16924F9CEFBFF05D4F2615DE0174550E754E&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS ONE HD
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/392679965?ticket=8459314AD7DCC8E77ED2D3F7D9919BE12542E1B0&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS VICELAND HD
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1801528487?ticket=9116AAFD10B40E30D5656B5EC8CAF915A5024661&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS VICELAND
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/801312212?ticket=431490EB243578E0F423AD9E746692EEC9833819&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",7 Perth
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/2125030280?ticket=E63EFD800F7263098D3E6318B321231CA24428A1&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",Channel 9 Perth
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/685103595?ticket=4AD704FAED5B63C4E4C737246FB50B015015EAF1&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",10
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1912931202?ticket=6918C6EF9EECDBC3166C6FAC88AAA84631802F49&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",10 Peach
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1746059052?ticket=C3792D25F6C20CBC6D208F6E7690CB4E928DCDCC&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",10 BOLD
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/402400556?ticket=76697A6BA60AB3F67621DD2C2A0F58887F2E0794&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",10 HD
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/2095730062?ticket=70763EDC2BF5C7D678806A8D8E1597DB28D0D894&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",TVSN
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1229223894?ticket=08A1F4640B284BFA6EC0C25783AEAD1BFC8F3905&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SpreeTV
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1548293515?ticket=8F3992A8768AE0AE431C0554EF369BE3A50A2CF8&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",ABC HD
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/2110317354?ticket=474DCBAEC44754AA48A3640E0141E9003FF67FA3&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",ABC
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1239082047?ticket=AF5A554E85C5F1501AF73DD7B4CE1804874FE5A0&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",ABCComedy/Kids
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/293680892?ticket=C9A9A8E3A163939F14C7EA5B02F02108F7AB8FDB&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",ABC ME
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1182389273?ticket=44790C108E34D905923BC769C5CA9F9F39A758F9&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",ABC NEWS
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/169152541?ticket=FFE71550C008CE00DB3BFE6480E3D45AA2B30E06&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS Food
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1590507445?ticket=A4A43200D70603CE8E18D443CEDB42C203E9ED17&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",NITV
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/273655769?ticket=C3FCE355AA1DCD1401D0EB41C25C10E973AF2FC7&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS Arabic24
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1683381385?ticket=0ED46DE89C034387248B6C278B54C7ED1BE1449A&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS Radio 1
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1550538460?ticket=EF2EF15A69A445750038B6809F5217A35DD5731D&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS Radio 2
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/681312000?ticket=B501117E58FA8A8E5E0A24C8667C94D461EEAD46&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS Chill
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1143978287?ticket=EFC2E80324A7724E665DCFC730200A5866C8B915&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",West TV
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/154393013?ticket=15A49437D203DB90E86DF8816F76AAA624641AEE&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",7HD Perth
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1379348973?ticket=0E401ABB0D1D0C3213A42D905975271ECA97F0EF&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",7 Perth
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1405436437?ticket=ED5D7577FC975274EEAE005CEDF88F19CD949799&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",7TWO Perth
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/340013334?ticket=2ACF7FC17106FC4CC8FFCE4401869123A4F91E91&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",7mate Perth
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/906747879?ticket=D5A39674984EDC0193F3FA49BDEB64FB8DF39E49&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",7flix Perth
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/549126398?ticket=E84E3899C87ECCA8E3BFA4FFF6837EDE4E3B28D8&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",RACING.COM
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/765347201?ticket=75E5634F39F08BA6C3006BAB61B8A9BFDF714BCB&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",9HD Perth
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/428309871?ticket=6377B09EBFEB163CF85C9C69AB9092F1D708C544&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",Channel 9 Perth
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/45519607?ticket=8E342324E4190EB20110C163CE1209D6EE1E494A&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",9Gem
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/718431438?ticket=C4D21D626F289C04EC338C64B39D527A4AB6F755&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",9Go!
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1934489311?ticket=5429BF670817A850425BBB524AAED76AF44F375A&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",9Life
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/205762139?ticket=6DEEB6E6ABE4CDEADA3C54E6D79F038C466DAE92&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",Your Money
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/827588630?ticket=3B9CB7D9DFADA54BBE2F9418C9CF2D57F7BCB100&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",9Go!
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/1520452137?ticket=DA889F8FFFFA1BE39E3296C692E5A2A0DC04F29C&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",Double J
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/544949136?ticket=9F507278BCAF48A84F4C3D41A2E9A6E3568A618D&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",ABC Jazz
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/2112928616?ticket=48FD0ADD31A6ACC235C6B089423AE0701CA6F3B3&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS Radio 1
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/658600316?ticket=1138A922E3CCB1F90A54035A181BA92F2E869D85&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS Radio 2
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/379324725?ticket=C33DCFBE063A62754EC3F66780D61A41C1AE4309&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS Radio 3
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/354740742?ticket=ADE3EEE22319F99DB1CF12C51070F370BAEB2903&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS Arabic24
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/597418488?ticket=8EA828B7B314266125D82114594E516D250A8B80&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS PopDesi
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/225576153?ticket=8C992470D080F51E4931F017862AE226CED4209F&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS Chill
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/939562656?ticket=86783F586D37512A4D8E1D79E6DC8A8CD2DE3F94&profile=pass
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/sXM1VttD/D9.png" group-title="AUSSIE♥IPTV",SBS PopAsia
-http://kodi:kodi@61.245.139.132:9981/stream/channelid/313888421?ticket=CC12FC7EB3B6B39DA0E2B95ECAB0B887D455D9A5&profile=pass
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Movies HD
+http://xxultraxx.com:80/comer069/360333/9451
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Movies Action HD
+http://xxultraxx.com:80/comer069/360333/9445
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Movies Thriller
+http://xxultraxx.com:80/comer069/360333/9447
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Movies Comedy HD
+http://xxultraxx.com:80/comer069/360333/9442
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Movies Disney
+http://xxultraxx.com:80/comer069/360333/9441
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Movies Thriller+2
+http://xxultraxx.com:80/comer069/360333/9440
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Movies First
+http://xxultraxx.com:80/comer069/360333/9449
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Movies Kids
+http://xxultraxx.com:80/comer069/360333/9443
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",First HBO HD
+http://xxultraxx.com:80/comer069/360333/9425
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Syfy HD
+http://xxultraxx.com:80/comer069/360333/9424
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Series HD
+http://xxultraxx.com:80/comer069/360333/9429
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Series First HD
+http://xxultraxx.com:80/comer069/360333/9428
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Series Comedy
+http://xxultraxx.com:80/comer069/360333/9427
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Star Movie
+http://xxultraxx.com:80/comer069/360333/9418
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Star World HD
+http://xxultraxx.com:80/comer069/360333/9417
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Fine Living
+http://xxultraxx.com:80/comer069/360333/9421
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Fatafeat
+http://xxultraxx.com:80/comer069/360333/3901
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",BoxOffice1
+http://xxultraxx.com:80/comer069/360333/3995
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",BoxOffice2
+http://xxultraxx.com:80/comer069/360333/3996
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",BoxOffice3
+http://xxultraxx.com:80/comer069/360333/3997
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",OutDoor
+http://xxultraxx.com:80/comer069/360333/9412
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",TLC HD
+http://xxultraxx.com:80/comer069/360333/9419
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",VH-1
+http://xxultraxx.com:80/comer069/360333/9376
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Animal Planet HD
+http://xxultraxx.com:80/comer069/360333/9411
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",NatGeoGraphic HD
+http://xxultraxx.com:80/comer069/360333/2810
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",National Geographic HD
+http://xxultraxx.com:80/comer069/360333/9410
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Nat GEO Wild HD
+http://xxultraxx.com:80/comer069/360333/9409
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",NAT GEO People HD
+http://xxultraxx.com:80/comer069/360333/9408
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Discovery Turbo Xtra
+http://xxultraxx.com:80/comer069/360333/9405
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Discovery Channel HD
+http://xxultraxx.com:80/comer069/360333/9407
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Discovery Life HD
+http://xxultraxx.com:80/comer069/360333/9404
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Discovery Science HD
+http://xxultraxx.com:80/comer069/360333/9406
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Crime & Investigation
+http://xxultraxx.com:80/comer069/360333/9400
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",History Channel HD
+http://xxultraxx.com:80/comer069/360333/9402
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",E!ntertainment
+http://xxultraxx.com:80/comer069/360333/3922
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",OutDoor
+http://xxultraxx.com:80/comer069/360333/5927
 
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/pLkg8tBP/M4.png" group-title="SPORTS♥ASIA",SUPER SOCCER TV
 http://210.210.155.35/uq2663/h/h20/index.m3u8
