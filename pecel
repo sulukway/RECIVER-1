@@ -283,6 +283,97 @@ http://203.154.243.89:1207
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/GmFL6gFV/ASTRO.png" group-title="ASTRO♥SPORTS",Astro Sport 4 SD
 http://203.154.243.89:1211
 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",HBO INDIA HD
+http://line.myott.net:80/live/1234/4321/63555.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",MN PLUS HD
+http://line.myott.net:80/live/1234/4321/63554.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",MNX HD
+http://line.myott.net:80/live/1234/4321/63553.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",MOVIES NOW HD
+http://line.myott.net:80/live/1234/4321/63552.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",AND FLIX HD
+http://line.myott.net:80/live/1234/4321/63547.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",AND PRIVE HD
+http://line.myott.net:80/live/1234/4321/63522.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",SONY PIX HD
+http://line.myott.net:80/live/1234/4321/63582.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",SONY ROX HD
+http://line.myott.net:80/live/1234/4321/63567.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",STAR MOVIES HD
+http://line.myott.net:80/live/1234/4321/63511.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",STAR MOVIES SELECT HD
+http://line.myott.net:80/live/1234/4321/63510.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",STAR WORLD HD
+http://line.myott.net:80/live/1234/4321/63550.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",STAR WORLD PREMIER HD
+http://line.myott.net:80/live/1234/4321/63549.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",WARNER BROS
+http://line.myott.net:80/live/1234/4321/63313.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",AXN HD
+http://line.myott.net:80/live/1234/4321/63556.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",ROMEDY NOW HD
+http://line.myott.net:80/live/1234/4321/63513.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",TLC WORLD HD
+http://line.myott.net:80/live/1234/4321/63508.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",STAR GOLD HD
+http://line.myott.net:80/live/1234/4321/63565.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",STAR GOLD SELECT HD
+http://line.myott.net:80/live/1234/4321/63564.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",STAR PLUS HD
+http://line.myott.net:80/live/1234/4321/63563.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥MOVIES",STAR PLUS HD (Back Up)
+http://line.myott.net:80/live/1234/4321/63334.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",ANIMAL PLANET WORLD HD
+http://line.myott.net:80/live/1234/4321/63521.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",HISTORY TV18 HD
+http://line.myott.net:80/live/1234/4321/63515.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",NAT GEO MUSIC HD
+http://line.myott.net:80/live/1234/4321/63323.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",NAT GEO PEOPLE HD
+http://line.myott.net:80/live/1234/4321/63331.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",NAT GEO WILD HD
+http://line.myott.net:80/live/1234/4321/63481.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",NATIONAL GEOGRAPHIC HD
+http://line.myott.net:80/live/1234/4321/63514.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",DISCOVERY WORLD HD
+http://line.myott.net:80/live/1234/4321/63517.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",SONY BBC EARTH ENGLISH HD
+http://line.myott.net:80/live/1234/4321/63551.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",TRAVEL XP HD
+http://line.myott.net:80/live/1234/4321/63507.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",TATA SKY KIDS CINEMA
+http://line.myott.net:80/live/1234/4321/63283.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",TATA SKY WORLD CINEMA HD
+http://line.myott.net:80/live/1234/4321/63325.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",THE QYOU
+http://line.myott.net:80/live/1234/4321/63319.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",TIMES NOW NEWS HD
+http://line.myott.net:80/live/1234/4321/63509.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",VH1 HD
+http://line.myott.net:80/live/1234/4321/63548.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥ENTERT",ZEE CAFE HD
+http://line.myott.net:80/live/1234/4321/63506.ts
+
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS SELECT 1 HD
+http://line.myott.net:80/live/1234/4321/63539.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS SELECT 2 HD
+http://line.myott.net:80/live/1234/4321/63498.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS 1 HD
+http://line.myott.net:80/live/1234/4321/63541.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",STAR SPORTS 2 HD
+http://line.myott.net:80/live/1234/4321/63540.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY ESPN HD
+http://line.myott.net:80/live/1234/4321/63542.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",SONY SIX HD
+http://line.myott.net:80/live/1234/4321/63499.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",TEN 1 HD
+http://line.myott.net:80/live/1234/4321/63537.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",TEN 2 HD
+http://line.myott.net:80/live/1234/4321/63536.ts
+#EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/VN4YkSHF/VCON.png" group-title="VICON♥SPORT",TEN 3 HD
+http://line.myott.net:80/live/1234/4321/63535.ts
+
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Movies HD
 http://xxultraxx.com:80/comer069/360333/9451
 #EXTINF:0 tvg-id="ext" tvg-logo="https://i.postimg.cc/V6TVBNmL/HD.png" group-title="OSN♥IPTV",Movies Action HD
